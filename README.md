@@ -1,18 +1,39 @@
-# Java OOP Practice
+# Java Core Practice
 
-This repository contains my Java OOP practice tasks.
+This repository contains my **Java Core practice projects and examples**.
+The goal of this repository is to build a strong foundation in Java by practicing core language concepts and writing clean, understandable code.
 
-## Topics covered
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
+## Topics Covered
 
-Each package includes simple examples to demonstrate how OOP principles work in Java.
+The repository includes examples and exercises for important **Java Core concepts**, including:
+
+* Java Syntax and Basic Concepts
+* Object-Oriented Programming (OOP)
+
+    * Encapsulation
+    * Inheritance
+    * Polymorphism
+    * Abstraction
+* Classes and Objects
+* Constructors
+* Method Overloading and Overriding
+* Access Modifiers
+* Packages
+* Java Collections Framework
+* Exception Handling
+* Basic Java Best Practices
+
+Each package contains small examples designed to clearly demonstrate how these concepts work in Java.
 
 ## Technologies
-- Java 17
-- IntelliJ IDEA
+
+* Java 17
+* IntelliJ IDEA
 
 ## Purpose
-The goal of this repository is to strengthen my understanding of Java Core and Object-Oriented Programming concepts as a foundation for Java Backend development.
+
+The purpose of this repository is to strengthen my **Java Core knowledge**, which is an essential foundation for becoming a **Java Backend Developer** and working with frameworks like **Spring Boot** in the future.
+
+## Author
+
+Created and maintained by **Yusufjon Axmedov** as part of my journey to becoming a Java Backend Developer.
