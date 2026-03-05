@@ -1,39 +1,116 @@
-# Java Core Practice
+# Java Core Learning Repository
 
-This repository contains my **Java Core practice projects and examples**.
-The goal of this repository is to build a strong foundation in Java by practicing core language concepts and writing clean, understandable code.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Core+Learning+Journey;Practicing+Java+Fundamentals;Future+Java+Backend+Developer" />
+</p>
+
+---
+
+![Java](https://img.shields.io/badge/Java-17-orange)
+![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue)
+![Status](https://img.shields.io/badge/Status-Learning-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Java%20Backend-blueviolet)
+
+---
+
+## About This Repository
+
+This repository contains my **Java Core learning journey**, where I practice fundamental Java concepts by writing small examples and structured code.
+
+The main goal of this project is to build a **strong foundation in Java**, which is essential for becoming a professional **Java Backend Developer**.
+
+---
 
 ## Topics Covered
 
-The repository includes examples and exercises for important **Java Core concepts**, including:
+### Java Fundamentals
 
-* Java Syntax and Basic Concepts
-* Object-Oriented Programming (OOP)
+* Java syntax
+* Variables and data types
+* Control flow (if statements, switch, loops)
 
-    * Encapsulation
-    * Inheritance
-    * Polymorphism
-    * Abstraction
-* Classes and Objects
+### Object-Oriented Programming
+
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+
+### Classes and Objects
+
+* Class design
 * Constructors
-* Method Overloading and Overriding
-* Access Modifiers
+* Method overloading
+* Method overriding
+
+### Java Core Concepts
+
+* Access modifiers
 * Packages
-* Java Collections Framework
-* Exception Handling
-* Basic Java Best Practices
+* Exception handling
+* Java Collections Framework (List, Set, Map)
 
-Each package contains small examples designed to clearly demonstrate how these concepts work in Java.
+---
 
-## Technologies
+## Project Structure
+
+```text
+src/
+ ├── encapsulation/
+ ├── inheritance/
+ ├── polymorphism/
+ ├── abstraction/
+ ├── collections/
+ ├── exceptions/
+```
+
+Each package demonstrates a specific Java concept through small examples.
+
+---
+
+## Technologies Used
 
 * Java 17
 * IntelliJ IDEA
 
-## Purpose
+---
 
-The purpose of this repository is to strengthen my **Java Core knowledge**, which is an essential foundation for becoming a **Java Backend Developer** and working with frameworks like **Spring Boot** in the future.
+## How to Run
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/java-core-practice.git
+```
+
+Open the project in **IntelliJ IDEA** and run any example class.
+
+---
+
+## What I Learned
+
+Through this repository I am strengthening my understanding of:
+
+* Java Core fundamentals
+* Object-Oriented Programming principles
+* Clean and readable Java code
+* Java project structure
+
+---
+
+## Future Improvements
+
+In the future I plan to add:
+
+* Multithreading basics
+* File handling
+* More advanced collections usage
+* Small console-based Java applications
+
+---
 
 ## Author
 
-Created and maintained by **Yusufjon Axmedov** as part of my journey to becoming a Java Backend Developer.
+**Yusufjon Axmedov**
+
+Aspiring **Java Backend Developer**
