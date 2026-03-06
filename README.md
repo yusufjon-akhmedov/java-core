@@ -49,6 +49,7 @@ The main goal of this project is to build a **strong foundation in Java**, which
 * Packages
 * Exception handling
 * Java Collections Framework (List, Set, Map)
+* Generics
 
 ---
 
@@ -61,56 +62,5 @@ src/
  ├── polymorphism/
  ├── abstraction/
  ├── collections/
+ ├── generics/
  ├── exceptions/
-```
-
-Each package demonstrates a specific Java concept through small examples.
-
----
-
-## Technologies Used
-
-* Java 17
-* IntelliJ IDEA
-
----
-
-## How to Run
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/java-core-practice.git
-```
-
-Open the project in **IntelliJ IDEA** and run any example class.
-
----
-
-## What I Learned
-
-Through this repository I am strengthening my understanding of:
-
-* Java Core fundamentals
-* Object-Oriented Programming principles
-* Clean and readable Java code
-* Java project structure
-
----
-
-## Future Improvements
-
-In the future I plan to add:
-
-* Multithreading basics
-* File handling
-* More advanced collections usage
-* Small console-based Java applications
-
----
-
-## Author
-
-**Yusufjon Axmedov**
-
-Aspiring **Java Backend Developer**
