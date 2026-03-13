@@ -1,4 +1,4 @@
-package collections.hashandsets;
+package collections.hashmapandsets;
 
 import java.util.*;
 
@@ -98,6 +98,6 @@ public class TreeSetMain {
         subset.forEach(System.out::println);
         System.out.println("------------------------------------------------------------");
 
-        
+
     }
 }

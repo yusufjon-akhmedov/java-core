@@ -1,4 +1,4 @@
-package collections.hashandsets;
+package collections.hashmapandsets;
 
 import java.util.Collection;
 import java.util.HashSet;

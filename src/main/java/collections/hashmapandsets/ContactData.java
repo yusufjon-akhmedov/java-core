@@ -1,4 +1,4 @@
-package collections.hashandsets;
+package collections.hashmapandsets;
 
 import java.util.ArrayList;
 import java.util.Arrays;
