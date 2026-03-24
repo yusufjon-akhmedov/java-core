@@ -50,7 +50,7 @@ The main goal of this project is to build a **strong foundation in Java**, which
 * Exception handling
 * Java Collections Framework (List, Set, Map)
 * Generics
-
+* MultiThreading & Concurrency
 ---
 
 ## Project Structure
@@ -64,3 +64,4 @@ src/
  ├── collections/
  ├── generics/
  ├── exceptions/
+ ├── multitherading & concurrency/
