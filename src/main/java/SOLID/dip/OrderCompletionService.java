@@ -12,7 +12,7 @@
  * <p><strong>Why this fixes the problem:</strong> the notification method can change without
  * changing the business logic.</p>
  */
-package solid.dip;
+package SOLID.dip;
 
 import java.util.Objects;
 

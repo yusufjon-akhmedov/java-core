@@ -11,7 +11,7 @@
  * <p><strong>Problems caused:</strong> if saving changes or email sending changes, the same
  * class must be changed.</p>
  */
-package solid.srp;
+package SOLID.srp;
 
 import java.util.Objects;
 

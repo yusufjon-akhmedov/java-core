@@ -12,7 +12,7 @@
  * <p><strong>Problems caused:</strong> the code compiles, but fails at runtime when a penguin
  * is used where a flying bird is expected.</p>
  */
-package solid.lsp;
+package SOLID.lsp;
 
 import java.util.Objects;
 

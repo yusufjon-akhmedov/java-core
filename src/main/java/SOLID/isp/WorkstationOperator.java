@@ -12,7 +12,7 @@
  * <p><strong>Problems caused:</strong> some implementations are forced to throw exceptions for
  * methods they do not really support.</p>
  */
-package solid.isp;
+package SOLID.isp;
 
 import java.util.Objects;
 

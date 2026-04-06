@@ -11,7 +11,7 @@
  *
  * <p><strong>Why this fixes the problem:</strong> each type is used in a safe and honest way.</p>
  */
-package solid.lsp;
+package SOLID.lsp;
 
 import java.util.Objects;
 

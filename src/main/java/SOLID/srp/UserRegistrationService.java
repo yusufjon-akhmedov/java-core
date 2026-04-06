@@ -12,7 +12,7 @@
  * <p><strong>Why this fixes the problem:</strong> each class has only one responsibility, so
  * changes stay small and clear.</p>
  */
-package solid.srp;
+package SOLID.srp;
 
 import java.util.Objects;
 

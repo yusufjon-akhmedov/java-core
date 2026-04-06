@@ -11,7 +11,7 @@
  * <p><strong>Why this fixes the problem:</strong> no class is forced to implement behavior that
  * does not belong to it.</p>
  */
-package solid.isp;
+package SOLID.isp;
 
 import java.util.Objects;
 

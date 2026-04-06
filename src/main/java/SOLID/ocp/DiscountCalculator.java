@@ -11,7 +11,7 @@
  *
  * <p><strong>Problems caused:</strong> the class keeps growing and becomes harder to maintain.</p>
  */
-package solid.ocp;
+package SOLID.ocp;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

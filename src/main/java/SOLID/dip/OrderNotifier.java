@@ -12,7 +12,7 @@
  * <p><strong>Problems caused:</strong> the business logic is tightly coupled to one concrete
  * notification class.</p>
  */
-package solid.dip;
+package SOLID.dip;
 
 import java.util.Objects;
 

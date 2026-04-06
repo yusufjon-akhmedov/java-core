@@ -12,7 +12,7 @@
  * <p><strong>Why this fixes the problem:</strong> the calculator stays unchanged when a new
  * discount rule is added.</p>
  */
-package solid.ocp;
+package SOLID.ocp;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
